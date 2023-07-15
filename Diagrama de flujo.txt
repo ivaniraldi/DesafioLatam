@@ -1,0 +1,25 @@
+Iniciar
+    Leer el primer número (num1)
+    Leer el segundo número (num2)
+
+    // Suma
+    sumar num1 y num2
+    Mostrar el resultado
+
+    // Resta
+    restar num2 de num1
+    Mostrar el resultado
+
+    // División
+    dividir num1 entre num2
+    Mostrar el resultado
+
+    // Multiplicación
+    multiplicar num1 por num2
+    Mostrar el resultado
+
+    // Módulo
+    calcular el módulo de num1 y num2
+    Mostrar el resultado
+
+Fin
