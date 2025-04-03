@@ -16,9 +16,6 @@ Este repositorio centraliza el material de apoyo para los alumnos de **Desafío 
 Consulta el calendario académico de tu generación en el siguiente enlace:  
 📆 [Calendario Académico](https://drive.google.com/file/d/11nH8uERdyzbZCtxyANl5N0749uMh9Vju/view?usp=drive_link)
 
-## 🎥 Grabaciones de Clases
-Accede a las grabaciones de clases en el siguiente enlace:  
-📂 [Grabaciones de Clases](https://drive.google.com/drive/folders/1hMlQJ02ufkCyiqx2helBr9klc-wi-mvI?usp=drive_link)
 
 ## 🚀 Recursos Adicionales
 - 🌐 **Plataforma Desafío Latam:** [empieza.desafiolatam.com](https://empieza.desafiolatam.com/)
